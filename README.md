@@ -2,7 +2,7 @@
 
 # Execution
 
-## I. For Linux:
+## I. For Linux
 
 ### A. Disk image files (.img)
 1. Guarantee that you have installed Python.
