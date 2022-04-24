@@ -3,7 +3,6 @@ import os
 from sys import argv
 
 def start(src, dst, dir_7zip, slash_last):
-    print(src, dst)
     print("Redstone has initiated the extraction of "+slash_last+" on Windows OS.")
     os.chdir(dir_7zip)
     if(os.path.exists(src)):
