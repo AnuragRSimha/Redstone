@@ -61,7 +61,7 @@ def extract(src):
                     os.system("rm -r /"+pwd+"/windows_mount")
                 
                 os.system("cp -r /mnt/windows_mount "+pwd)
-                print("\nSaved the contents to "+pwd)
+                print("\nSaved the contents to "+pwd+"/windows_mount")
             
             except:
                 print("\nThe input was invalid.")
