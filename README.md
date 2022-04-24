@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/53004679/164982089-e169af11-bc95-4c75-8c57-92288938d6b0.png)
+![logo](https://user-images.githubusercontent.com/53004679/164982247-a95f8ebb-31f7-485a-b74d-4b23b3f580fa.png)
 
 # Execution
 
