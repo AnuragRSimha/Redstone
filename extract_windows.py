@@ -18,7 +18,6 @@ def extract(src, dst):
     cwd = os.getcwd()
     dir_7zip = input("Enter the path to 7-Zip directory: ")
     if (len(slash_last)==1):
-        print("from here")
         slash_last = src
         start(cwd+'\\'+src, cwd+'\\'+dst, dir_7zip, slash_last)
     else:
