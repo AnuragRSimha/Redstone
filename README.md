@@ -8,7 +8,7 @@
 
 To extract it's contents, type:
 ``` python3 redstone.py NTFS.img``` 
-Or, 
+or, 
 ```python redstone.py NTFS.img```
 
 ### B. Encase image files (.E01)
