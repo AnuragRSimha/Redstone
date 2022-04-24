@@ -7,9 +7,9 @@
 2. Consider a sample disk file named NTFS.img
 
 To extract it's contents, type:
-python3 redstone.py NTFS.img
-Or,
-python redstone.py NTFS.img
+``` python3 redstone.py NTFS.img``` 
+Or, 
+```python redstone.py NTFS.img```
 
 ### B. Encase image files (.E01)
 1. Run the program as mentioned previously.
@@ -27,6 +27,6 @@ b) The second argument, being an offset value, only a number is accepted.  This 
 2. Decide the destination to store all the contents of your disk image.
 3. Copy the path to the source file (img file).
 4. Run the program: 
-python3 redstone.py "path/to/img_file" "path/to/the/destination"
+```python3 redstone.py "path/to/img_file" "path/to/the/destination"```
 Replace path/to/img_file and path/to/the/destination accordingly.
 5. You would be prompted to provide the path to the directory of 7-Zip. Enter the path that you had noted in step 1 of this process.
