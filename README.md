@@ -23,7 +23,7 @@ a) The first argument is the file system of a partition in the image file (Selec
 b) The second argument, being an offset value, only a number is accepted.  This is noted from the "Start" column of the desired partition. Enter only those digits succeeding the consecutive zeros.
 
 ## II. For Windows
-(Encase files are not yet supported)
+(Encase files are not supported)
 1. Install 7-Zip from https://7-zip.org/download.html
 (Important: Remember the path you provide during the installation.)
 2. Decide the destination to store all the contents of your disk image.
