@@ -22,7 +22,7 @@ or,
 
 ### B. Encase image files (.E01)
 1. Run the program as mentioned previously.
-2. When you are promoted for an input, a space delimitered sequence is accepted. 
+2. When you are prompted for an input, a space delimitered sequence is accepted. 
 Format: file_system offset
 
 a) The first argument is the file system of a partition in the image file (Select a single partition). This is noted by looking into the "Description" from the table displayed before you. 
