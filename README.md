@@ -44,4 +44,4 @@ b) The second argument, being an offset value, only a number is accepted.  This 
 2. Programmed in python.
 
 # Notice
-Redstone is currently designed to function on not any other OS but Windows and Linux.
+Redstone currently functions on not any other OS but Windows and Linux.
