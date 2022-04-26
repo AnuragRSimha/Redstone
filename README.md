@@ -1,5 +1,12 @@
 ![logo](https://user-images.githubusercontent.com/53004679/164986375-b32a9b45-059e-4c1a-8ff7-bec604a16b93.png)
 
+# Introduction
+## Image Evidences & Digital Forensics
+Cybercrime has become an inexorable threat nowadays. With the advancement of technology, cybercriminals employ vivid techniques to triumph their satanic goals. To thwart these (cyber) ruffians, cyber investigators come into play. A cyber police/investigator obtains a piece of evidence, technically termed a _disk image_, that can be burnt onto any disk attached to the detective's PC. A couple of popular disk image extensions are .IMG, .ISO, .E01. 
+
+## About Redstone
+Redstone is a tool that functions to a similar degree as FTK imager or Autopsy of The Sleuth Kit (TSK) does. A detective can supply an evidence file (disk image) to the tool and provide Redstone with a couple of seconds to extract all the contents of it into a folder. It's rudimentarily a disk image extractor which aids the investigator in digging deeper into the case. With files of enormous size, Redstone could stretch for a while to complete the extraction into a directory.
+
 # Execution
 
 ## I. For Linux
@@ -31,3 +38,10 @@ b) The second argument, being an offset value, only a number is accepted.  This 
 4. Run the command as below, replacing the image file and destination (folder) name: 
 ```python3 redstone.py NTFS.img extracted```
 5. You would be prompted to provide the path to the directory of 7-Zip. Enter the path that you had noted in step 1 of this process.
+
+# Additional Information
+1. Developed in Karnataka, South India.
+2. Programmed in python.
+
+# Notice
+Redstone is currently designed to function on not any other OS but Windows and Linux.
